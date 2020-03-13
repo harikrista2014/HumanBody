@@ -8,6 +8,10 @@ harikrista2014 got new changes.
 
 new pull request from harikrista@gmail.com
 
+- head
+- arms
+- limbs
+- body
 - eyes
 - ears
 - nose
