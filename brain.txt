@@ -4,3 +4,4 @@ Brain
 
 - send message to all body parts
 - receive message from all body parts
+- thinking
