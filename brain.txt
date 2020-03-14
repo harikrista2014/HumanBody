@@ -1,0 +1,6 @@
+We are going to develop brain here.
+
+Brain
+
+- send message to all body parts
+- receive message from all body parts
